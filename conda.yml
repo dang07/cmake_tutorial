@@ -1,0 +1,7 @@
+name: cmake_env
+channels:
+  - defaults
+dependencies:
+  - cmake
+  - gcc_linux-64
+  - gxx_linux-64
